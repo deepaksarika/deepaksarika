@@ -1,4 +1,4 @@
-# Hi, I'm <a href='' target="_blank">Deepak Sarika</a>! <img src="Profile1/run.png" width="50">
+# Hi, I'm Deepak Sarika <img src="Profile1/run.png" width="50">
 
 ![Cover](Profile1/coverImg.gif)
 
@@ -11,7 +11,7 @@
 ### <img src="Profile1/cofi.png" width="50"> About Me
 
 ```javascript
-const MohitKota = {
+const Deepak = {
   pronouns: "he" | "him",
   Iam : ["Software Developer", "FreeLancer", "Competitive Programming"],
   code: [Python, SQL, Javascript, CSS, PHP, C/C++],
